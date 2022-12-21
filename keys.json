@@ -1,0 +1,13 @@
+{
+    "PRIVATE_LIQ_VP": "",
+    "PUBLIC_LIQ_VP": "",
+    "vtest_fullnode": "https://vtest.infragrid.v.network/",
+    "vpioneer_fullnode": "https://vpioneer.infragrid.v.network/",
+    "vmain_fullnode": "https://infragrid.v.network/",
+    "COMET_BASE58": "VMqsmgQBHXHZqy3Cv6sxnrjzU9YF4QGvUN",
+    "VP_EVENT_URL": "https://vpioneer.infragrid.v.network/api/events/contract",
+    "VP_EVM_RPC": "https://vpioneer.infragrid.v.network/ethereum/compatible",
+    "VP_MULTICALL_ADR": "0xA50B8F486B390BD2435631C500204558364735E1",
+    "VP_COMET_ADR": "0x7aad22b907c95d3e18ad81c855509a50777b9dd4",
+    "VP_LIQUIDATRO_ADR": "0x57d1b2adc4d18cea2d169da6c733029301885fd2"
+}

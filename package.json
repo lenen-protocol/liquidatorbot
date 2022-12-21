@@ -1,0 +1,16 @@
+{
+  "name": "docker_liq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "looplisten_zh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethersproject/abi": "^5.7.0",
+    "axios": "^1.2.1",
+    "web3": "^1.8.1"
+  }
+}
